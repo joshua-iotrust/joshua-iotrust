@@ -7,8 +7,8 @@
 
 <p align="left">
     <img 
-        src="https://komarev.com/ghpvc/?username=joshua-data&label=Profile%20views&color=0e75b6&style=flat"
-        alt="joshua-data" 
+        src="https://komarev.com/ghpvc/?username=joshua-iotrust&label=Profile%20views&color=0e75b6&style=flat"
+        alt="joshua-iotrust" 
     />
 </p>
 
@@ -23,8 +23,8 @@
     <a href="https://kaggle.com/joshuajsk" target="blank">
         <img align="center" src="/images/kaggle_logo.png" alt="joshuajsk" height="40" width="40" />
     </a>
-    <a href="https://medium.com/@joshua-data" target="blank">
-        <img align="center" src="/images/medium_logo.png" alt="@joshua-data" height="40" width="40" />
+    <a href="https://medium.com/@joshua-iotrust" target="blank">
+        <img align="center" src="/images/medium_logo.png" alt="@joshua-iotrust" height="40" width="40" />
     </a>
 </p>
 
@@ -75,21 +75,21 @@
 
 <p>
     <img align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-data&show_icons=true&locale=en&layout=compact" 
-        alt="joshua-data" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-iotrust&show_icons=true&locale=en&layout=compact" 
+        alt="joshua-iotrust" 
     />
 </p>
 
 <p>&nbsp;
     <img align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=joshua-data&show_icons=true&locale=en" 
-        alt="joshua-data" 
+        src="https://github-readme-stats.vercel.app/api?username=joshua-iotrust&show_icons=true&locale=en" 
+        alt="joshua-iotrust" 
     />
 </p>
 
 <p>
     <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-data&" 
-        alt="joshua-data" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-iotrust&" 
+        alt="joshua-iotrust" 
     />
 </p>
