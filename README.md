@@ -2,7 +2,7 @@
     🙋🏻‍♂️ Hi, I'm Joshua Kim!
 </h1>
 <h3 align="center">
-    "A Data Analyst on a Never-Ending Thirst for Learning through Computers, Books and People"
+    "Data Analyst > Analytics Engineer > Data Engineer"
 </h3>
 
 <p align="left">
